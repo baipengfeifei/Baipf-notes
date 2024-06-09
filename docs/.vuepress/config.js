@@ -27,7 +27,7 @@ plugins: [
       autoCreateIssue: true,
       clientId: "Ov23lizauZ4JbmABzlCV",
       clientSecret: "a09078ef04914c21bbbe796048bf6a21ae932bc9",
-      owner: "baipengfei",
+      owner: "baipengfeifei",
       repo: "Baipf-notes",
     },
   ],
